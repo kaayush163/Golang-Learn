@@ -1,4 +1,4 @@
-module github.com/kaayush163/mongoapi
+module github.com/kaayush163/Golang-Learn/blob/main/24mongoapi
 
 go 1.22.2
 

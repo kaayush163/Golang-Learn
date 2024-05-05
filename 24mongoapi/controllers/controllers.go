@@ -11,6 +11,7 @@ import (
 	// "github.com/kaayush163/Golang-Learn/tree/main/24mongoapi/model"
 
 	"github.com/gorilla/mux"
+	"github.com/kaayush163/Golang-Learn/blob/main/24mongoapi/model"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
